@@ -34,7 +34,8 @@ http://127.0.0.1:8000/JUEGOS/
 ```
 
 ### Aqui podemos ver la pagina del inicio
-📌![imagen](https://github.com/movidasgori/LFG/blob/4eb79d063fa8534b0537c8e0eb0fadf874ad6e66/IMAGENES/inicio.JPG)
+![imagen](https://github.com/movidasgori/LFG/blob/4eb79d063fa8534b0537c8e0eb0fadf874ad6e66/IMAGENES/inicio.JPG)
+📌
 ```
 http://127.0.0.1:8000
 ```
